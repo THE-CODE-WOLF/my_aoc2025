@@ -32,7 +32,3 @@ for line in lines:
         print("+")
 
 print(count)
-
-
-
-
