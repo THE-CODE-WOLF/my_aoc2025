@@ -1,5 +1,4 @@
 import re
-from itertools import starmap
 
 fileName = "Puzzles/day2"
 
