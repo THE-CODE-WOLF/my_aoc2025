@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d9a62dc-c411-4808-af06-f780981e8592" name="Changes" comment="Day 2 first puzzle">
-      <change afterPath="$PROJECT_DIR$/2.2.py" afterDir="false" />
+    <list default="true" id="9d9a62dc-c411-4808-af06-f780981e8592" name="Changes" comment="Day 2 second puzzle">
+      <change afterPath="$PROJECT_DIR$/3.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
     "Python.1.2test.executor": "Run",
     "Python.2.1.executor": "Run",
     "Python.2.2.executor": "Run",
+    "Python.3.1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -109,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764692613180</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Day 2 second puzzle">
+      <option name="closed" value="true" />
+      <created>1764729063474</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764729063474</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +162,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 1 both puzzles" />
     <MESSAGE value="Day 2 first puzzle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 2 first puzzle" />
+    <MESSAGE value="Day 2 second puzzle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 2 second puzzle" />
   </component>
 </project>
