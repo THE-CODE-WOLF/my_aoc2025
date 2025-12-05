@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d9a62dc-c411-4808-af06-f780981e8592" name="Changes" comment="Day 4 both puzzles">
+    <list default="true" id="9d9a62dc-c411-4808-af06-f780981e8592" name="Changes" comment="Started day 5">
       <change afterPath="$PROJECT_DIR$/3.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764898546516</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Started day 5">
+      <option name="closed" value="true" />
+      <created>1764977434505</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764977434505</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +195,7 @@
     <MESSAGE value="Day 2 second puzzle" />
     <MESSAGE value="Day 3 first puzzle" />
     <MESSAGE value="Day 4 both puzzles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 4 both puzzles" />
+    <MESSAGE value="Started day 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started day 5" />
   </component>
 </project>
