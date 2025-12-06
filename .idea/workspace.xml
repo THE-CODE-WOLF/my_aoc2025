@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d9a62dc-c411-4808-af06-f780981e8592" name="Changes" comment="finished day 5">
+    <list default="true" id="9d9a62dc-c411-4808-af06-f780981e8592" name="Changes" comment="finished day 6 puzzle 1">
       <change afterPath="$PROJECT_DIR$/3.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,7 @@
     "Python.5.2.executor": "Run",
     "Python.5.2test.executor": "Run",
     "Python.6.1.executor": "Run",
+    "Python.6.2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -167,7 +168,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764996540650</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="finished day 6 puzzle 1">
+      <option name="closed" value="true" />
+      <created>1764998415444</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764998415444</updated>
+    </task>
+    <task id="LOCAL-00012" summary="finished day 6 puzzle 1">
+      <option name="closed" value="true" />
+      <created>1764998421645</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764998421645</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,6 +234,7 @@
     <MESSAGE value="Started day 5" />
     <MESSAGE value="Finished day 5 puzzle 1 and started puzzle 2" />
     <MESSAGE value="finished day 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished day 5" />
+    <MESSAGE value="finished day 6 puzzle 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished day 6 puzzle 1" />
   </component>
 </project>
