@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d9a62dc-c411-4808-af06-f780981e8592" name="Changes" comment="Finished day 5 puzzle 1 and started puzzle 2">
+    <list default="true" id="9d9a62dc-c411-4808-af06-f780981e8592" name="Changes" comment="finished day 5">
       <change afterPath="$PROJECT_DIR$/3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,7 @@
     "Python.5.1.executor": "Run",
     "Python.5.2.executor": "Run",
     "Python.5.2test.executor": "Run",
+    "Python.6.1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -158,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764978786732</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="finished day 5">
+      <option name="closed" value="true" />
+      <created>1764996540650</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764996540650</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +216,7 @@
     <MESSAGE value="Day 4 both puzzles" />
     <MESSAGE value="Started day 5" />
     <MESSAGE value="Finished day 5 puzzle 1 and started puzzle 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished day 5 puzzle 1 and started puzzle 2" />
+    <MESSAGE value="finished day 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished day 5" />
   </component>
 </project>
