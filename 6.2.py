@@ -1,5 +1,4 @@
 import re
-from os import remove
 
 fileName = "Puzzles/day6"
 
